@@ -1,0 +1,22 @@
+{
+  "name": "ep-2-ignition_our_app",
+  "version": "1.0.0",
+  "description": "hello world",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browerslist":[
+    "last 2 versions"
+  ]
+}

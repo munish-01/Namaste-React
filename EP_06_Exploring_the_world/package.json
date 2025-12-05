@@ -1,0 +1,20 @@
+{
+  "name": "ep_04_talk_is_cheap_show_me_the_code",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "http-proxy-middleware": "^3.0.5",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
